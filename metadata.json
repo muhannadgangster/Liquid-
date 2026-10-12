@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass Everywhere",
+  "description": "Native Android system-wide Liquid Glass companion with floating glass overlay, quick controls, and app profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Liquid Glass</string>
+    <string name="app_full_name">Liquid Glass Everywhere</string>
+    <string name="app_tagline">Translucent System Companion</string>
+    <string name="overlay_service_name">Liquid Glass Companion Service</string>
+    <string name="overlay_notification_title">Liquid Glass is Active</string>
+    <string name="overlay_notification_text">Floating glass bubble &amp; quick controls running</string>
+    <string name="action_emergency_stop">Emergency Stop</string>
+    <string name="permission_overlay_title">Display Over Other Apps</string>
+    <string name="permission_overlay_desc">Required to render floating liquid glass panels, bubble controls, and quick toggles above apps.</string>
+    <string name="permission_usage_title">App Profile Detection</string>
+    <string name="permission_usage_desc">Optional: Allows Liquid Glass to switch visual refraction profiles automatically when you launch compatible apps.</string>
+</resources>
